@@ -1,1 +1,1 @@
-# activation-gateway 
+# license-status-service
